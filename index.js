@@ -43,7 +43,7 @@ const Address = require('./models/address')
 conn.sync({
     
 }).then(
-    app.listen(5432,()=>{
+    app.listen(3000,()=>{
         console.log('banco conectado')
         console.log('rodando na porta 3000')
         
