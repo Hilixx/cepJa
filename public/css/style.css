@@ -1,0 +1,91 @@
+.title{
+    font-size: 70px;
+    color: rgb(250, 249, 195);
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 3px 2px 2px;
+    text-decoration:none;
+    
+    
+}
+    
+
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px;
+    background-image: url('./cep.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+ 
+#homeLinks1{
+    color: rgb(255, 255, 255);
+   
+    border: 3px solid black;
+    text-decoration: none;
+    font-size: 40px;
+    background-image: url('./plan.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(193, 252, 252);
+    width: 500px;
+    margin-left: 700px;
+    padding: 10px;
+    box-shadow: 10px 5px 1px 2px;
+    margin-bottom: 30px;
+    
+    
+    
+}
+
+.formulario{
+    margin-left: 400px;
+    width: 60%;
+    margin-bottom: 40px;
+    font-size: 30px;
+    background: none;
+    
+    
+    
+}
+
+
+#enviar{
+    background-color: rgb(0, 0, 0);
+    font-weight: 900;
+    border-radius: 10px;
+    color: white;
+    padding: 30px;
+    text-decoration: none;
+}
+
+
+.card{
+    display: inline-block;
+    padding: 50px;
+    background-color: rgb(188, 141, 123);
+    margin: 50px;
+    box-shadow: 5px 5px 2px 2px;
+    font-size: 20px;
+    text-decoration-style: none;
+    width: 1000px;
+    margin-left: 350px;
+    background: none;
+   
+}
+.rodape{
+    margin-top: 500px;
+    color: wheat;
+    background: none;
+    font-size: 30px;
+}
+#espaco{
+    margin-bottom: 50px;
+    background: none;
+}
